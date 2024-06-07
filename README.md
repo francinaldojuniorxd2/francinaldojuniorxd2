@@ -4,8 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francinaldojuniorxd2&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francinaldojuniorxd2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **francinaldojuniorxd2/francinaldojuniorxd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
