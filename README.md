@@ -2,9 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francinaldojuniorxd2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francinaldojuniorxd2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francinaldojuniorxd2&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francinaldojuniorxd2)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francinaldojuniorxd2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **francinaldojuniorxd2/francinaldojuniorxd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
