@@ -2,7 +2,7 @@
 
 # My name is Francinaldo Junior
 
-- Software developer with expertise in network and system security.
+ Software developer with expertise in network and system security.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francinaldojuniorxd2&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
